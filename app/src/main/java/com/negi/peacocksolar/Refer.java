@@ -1,12 +1,14 @@
 package com.negi.peacocksolar;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+
 
 import android.os.Bundle;
-import android.view.LayoutInflater;
+
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toolbar;
+
 
 public class Refer extends AppCompatActivity {
 Toolbar tv;
@@ -19,7 +21,8 @@ TextView textView;
         tv=v.findViewById(R.id.custool);
         textView=v.findViewById(R.id.texttop);
         textView.setText("REFER a Friend");
-        setActionBar(tv);
+       setSupportActionBar(tv);
+       getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
     }
 }

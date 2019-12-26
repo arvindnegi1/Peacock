@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Peacock</string>
+    <string name="facebook_app_id">1356370661209359</string>
+    <string name="fb_login_protocol_scheme">fb1356370661209359</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

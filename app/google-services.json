@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400262802004",
+    "firebase_url": "https://peacock-fb738.firebaseio.com",
+    "project_id": "peacock-fb738",
+    "storage_bucket": "peacock-fb738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400262802004:android:7391cc068bf80e2f891bc1",
+        "android_client_info": {
+          "package_name": "com.negi.peacocksolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400262802004-0b1n77kdjfnqb72atuggk4111c765vge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.negi.peacocksolar",
+            "certificate_hash": "45c0b7a4a0169b20eb505ded70a740e8f4492b40"
+          }
+        },
+        {
+          "client_id": "400262802004-eiavqe5dkas34fgc3eehiti468fd4mjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5elTiwdDfPDVxFudZD2DChUxZMEM0QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400262802004-eiavqe5dkas34fgc3eehiti468fd4mjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
